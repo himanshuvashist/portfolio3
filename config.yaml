@@ -157,7 +157,7 @@ params:
       - job: "Software Engineer"
         company: "SocialPilot"
         companyUrl: "https://www.socialpilot.co/"
-        date: "Sep 2020 - June 2021"
+        date: "Dec 2020 - June 2021"
         featuredLink:
           enable: false
           url: "https://www.socialpilot.co/"
