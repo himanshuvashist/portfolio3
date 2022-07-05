@@ -1,4 +1,4 @@
-baseURL: "https://hugo-profile.netlify.app"
+baseURL: "https://himanshuvashistportfolio.netlify.app"
 languageCode: "en-us"
 title: "Himanshu Profile"
 theme: hugo-profile
@@ -155,7 +155,7 @@ params:
       - job: "Software Engineer"
         company: "SocialPilot"
         companyUrl: "https://www.socialpilot.co/"
-        date: "Sep 2020 - Dec 2021"
+        date: "Sep 2020 - June 2021"
         featuredLink:
           enable: false
           url: "https://www.socialpilot.co/"
