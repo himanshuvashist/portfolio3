@@ -42,7 +42,7 @@ params:
   title: "Himanshu's Profile"
   description: Himanshu vashist personal portfolio website
   # staticPath: ""  # The path to serve the static files from
-  favicon: "images/logo.svg"
+  favicon: "/images/logo.svg"
 
   theme:
     disableThemeToggle: false
@@ -113,9 +113,9 @@ params:
     title: "About Me"
     image: "/images/pic.jpg"
     content: |-
-      I am a software Engineer with a passion for web development. I have a background in computer science and mathematics, and I have a strong interest in the intersection of technology and art. I am currently working as a software developer at [Ikonwork](https://ikonwork.com) in Faridabad, Haryana, India. 
+      I am a software Engineer with a passion for web development. I have a background in computer science and mathematics, and I have a strong interest in technology. I am currently working as a software developer at [Ikonwork](https://ikonwork.com) in Faridabad, Haryana, India. 
 
-      I am currently working on a project that will be used to help people find the best way to get around the city.
+      I am currently building an ATS (Application tracking system)
     skills:
       enable: true
       title: "Here are a few technologies I've been working with recently:"
