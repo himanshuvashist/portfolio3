@@ -4,8 +4,8 @@ title: "Hugo Profile"
 theme: hugo-profile
 
 Paginate: 3
-disqusShortname: gurusabarish
-googleAnalytics: G-DWJJVE27WD
+# disqusShortname: gurusabarish
+# googleAnalytics: G-DWJJVE27WD
 
 markup:
   goldmark:
