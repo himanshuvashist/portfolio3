@@ -175,7 +175,7 @@ params:
     enable: true
     # index: true
     items:
-      - title: "Bachelor of Science in Computer Science"
+      - title: "Bachelor of Technology in Computer Science"
         school:
           name: "Rawal Institute of Engineering & Technology"
           url: "http://riet.in/"
