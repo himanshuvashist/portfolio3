@@ -132,6 +132,25 @@ params:
   experience:
     enable: true
     items:
+    
+      - job: "React/React Native Developer"
+        company: "32nd"
+        companyUrl: "https://32nd.com/"
+        date: "Sep 2021 - current"
+        featuredLink:
+          enable: false
+          url: "https://32nd.com/"
+        info:
+          enable: true
+          content: I am working as React/React Native developer at 32nd.
+        content: |
+          -  Collaborated closely with cross-functional teams to align product development with business goals.
+          -  Improved the architecture and maintainability of products, resulting in increased efficiency and reduced technical debt.
+          -  Implemented changes to streamline business operations, optimizing user experiences.
+          -  Utilized debugging tools and maintained documentation.
+          -  Actively participated in code reviews and ensured high-quality standards.
+
+          
       - job: "Software Engineer"
         company: "Ikonwork"
         companyUrl: "https://ikonwork.com"
@@ -170,22 +189,6 @@ params:
           - Provided ongoing efficiency and maintenance and patching on website interface to maintain viability.
           - Involved in Code Review with GITLAB and debugging using chrome dev tools.
   
-      - job: "React/React Native Developer"
-        company: "32nd"
-        companyUrl: "https://32nd.com/"
-        date: "Sep 2021 - current"
-        featuredLink:
-          enable: false
-          url: "https://32nd.com/"
-        info:
-          enable: true
-          content: I am working as React/React Native developer at 32nd.
-        content: |
-          -  Collaborated closely with cross-functional teams to align product development with business goals.
-          -  Improved the architecture and maintainability of products, resulting in increased efficiency and reduced technical debt.
-          -  Implemented changes to streamline business operations, optimizing user experiences.
-          -  Utilized debugging tools and maintained documentation.
-          -  Actively participated in code reviews and ensured high-quality standards.
 
 
   # Education
