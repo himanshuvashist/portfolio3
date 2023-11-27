@@ -124,8 +124,8 @@ params:
         - "HTML"
         - "CSS"
         - "JavaScript"
-        - "React"
-        - "Redux"
+        - "React native"
+        - "Zustand"
 
   # Experience
   experience:
