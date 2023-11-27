@@ -96,7 +96,7 @@ params:
     button:
       enable: true
       name: "Resume"
-      url: "https://github.com/himanshuvashist/resume/raw/main/Resume_React_Developer_Himanshu_Vashist.pdf"
+      url: "https://github.com/himanshuvashist/resume/raw/main/Resume_React_Developer_Himanshu_Vashist.docx"
     socialLinks:
       fontAwesomeIcons:
         - icon: fab fa-github
