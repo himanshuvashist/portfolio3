@@ -136,7 +136,7 @@ params:
       - job: "React/React Native Developer"
         company: "32nd"
         companyUrl: "https://32nd.com/"
-        date: "Sep 2021 - current"
+        date: "Sep 2022 - current"
         featuredLink:
           enable: false
           url: "https://32nd.com/"
@@ -154,7 +154,7 @@ params:
       - job: "Software Engineer"
         company: "Ikonwork"
         companyUrl: "https://ikonwork.com"
-        date: "Nov 2021 - present"
+        date: "Nov 2021 - Sep 2022"
         featuredLink:
           enable: true
           name: "Dridges"
