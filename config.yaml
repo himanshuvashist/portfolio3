@@ -96,7 +96,7 @@ params:
     button:
       enable: true
       name: "Resume"
-      url: "https://github.com/himanshuvashist/resume/raw/main/Himanshu_Vashist_Resume.pdf"
+      url: "https://github.com/himanshuvashist/resume/raw/main/Resume_React_Developer_Himanshu_Vashist.pdf"
     socialLinks:
       fontAwesomeIcons:
         - icon: fab fa-github
@@ -115,9 +115,8 @@ params:
     title: "About Me"
     image: "/images/PersonSecond.png"
     content: |-
-      I am a software Engineer with a passion for web development. I have a background in computer science and mathematics, and I have a strong interest in technology. I am currently working as a software developer at [Ikonwork](https://ikonwork.com) in Faridabad, Haryana, India. 
+       I am a software Engineer with a passion for web/app development. I have a background in computer science and mathematics, and I have a strong interest in technology. I am currently working at [32nd](https://32nd.com) as a React/React Native Developer. My work involves collaborating on innovative solutions for businesses, optimizing user experiences, and maintaining high coding standards. I'm dedicated to building web/native applications that are not just functional but also intuitive and visually appealing.
 
-      I am currently building an ATS (Application tracking system)
     skills:
       enable: true
       title: "Here are a few technologies I've been working with recently:"
